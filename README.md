@@ -4,7 +4,7 @@
 
 ## TennisAi
 
-TennisAi is a match prediction artificial intelligence that uses machine learning to predict the winning team of the next football match.
+TennisAi is a match prediction artificial intelligence that uses machine learning to predict the winning team of the next tennis match.
 
 ## Installation
 
