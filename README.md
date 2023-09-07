@@ -6,6 +6,10 @@
 
 TennisAi is a match prediction artificial intelligence that uses machine learning to predict the winning team of the next tennis match.
 
+
+## For people without technical experience you can buy the compiled standalone application for windows from here:
+https://www.buymeacoffee.com/CorvusCodex/e/165543
+
 ## Installation
 
 To install TennisAi, you will need to have Python 3.x and the following libraries installed:
